@@ -1,9 +1,6 @@
 # 管理输出
 ```
-npm init
-npm install webpack webpack-cli --save-dev
-npm install --save lodash
-npm install --save-dev html-webpack-plugin
+npm install
 
 PS D:\workspace\VisualStudioCode\webpack-examples\03_OutputManagement> npm run build
 

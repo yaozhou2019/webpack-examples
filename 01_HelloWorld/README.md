@@ -1,8 +1,6 @@
 # webpack 第一个HelloWorld项目
 ```
-npm init
-npm install webpack webpack-cli --save-dev
-npm install --save lodash
+npm install
 
 npm run build
 > 01_helloworld@1.0.0 build D:\workspace\VisualStudioCode\webpack-examples\01_HelloWorld

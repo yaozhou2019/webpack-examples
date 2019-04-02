@@ -1,10 +1,7 @@
 # 管理资源
 
 ```
-npm init
-npm install webpack webpack-cli --save-dev
-npm install --save lodash
-npm install --save-dev style-loader css-loader file=loader
+npm install
 
 PS D:\workspace\VisualStudioCode\webpack-examples\02_AssetManagement> npm run build
 
