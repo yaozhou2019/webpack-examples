@@ -19,7 +19,7 @@ module.exports = {
     new CleanWebpackPlugin(),//清空dist目录
     //使用html-webpack-plugin插件，生成index.html到dist目录
     new HtmlWebpackPlugin({
-      title: 'Output Management'
+      title: 'Development'
     }),
   ],
   module: {
